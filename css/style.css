@@ -1,0 +1,24 @@
+body{
+  background-color: #b0bec5;
+}
+
+nav{
+  background-color: #37474f !important;
+}
+
+.page-footer{
+  background-color: #37474f !important;
+}
+.footer-copyright{
+  background-color: #263238 !important;
+}
+
+.github{
+  width: 180px !important;
+  background-color: #333 !important;
+}
+
+.linkedin{
+  width: 180px !important;
+  background-color: #0077b5 !important;
+}
